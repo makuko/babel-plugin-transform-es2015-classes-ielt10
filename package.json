@@ -1,0 +1,21 @@
+{
+  "name": "babel-plugin-transform-es2015-classes-ielt10",
+  "description": "Babel plugin to transform ES2015 classes to work in IE<10",
+  "version": "0.1.0",
+  "author": {
+    "name": "Markus Schmidt",
+    "email": "m.schmidt@makuko.de"
+  },
+  "repository": "makuko/babel-plugin-transform-es2015-classes-ielt10",
+  "main": "index.js",
+  "keywords": [
+    "babel-plugin"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.13.2",
+    "grunt": "^1.0.1",
+    "grunt-babel": "^6.0.0",
+    "load-grunt-tasks": "^3.5.0"
+  }
+}

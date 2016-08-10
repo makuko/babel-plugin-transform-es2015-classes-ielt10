@@ -1,0 +1,6 @@
+.vscode/
+.gitignore
+Gruntfile.js
+index.ts
+set-prototype-of.ts
+tsconfig.json
